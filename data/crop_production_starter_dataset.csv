@@ -1,0 +1,61 @@
+State,District,Crop_Year,Season,Crop,Area,Production
+Andhra Pradesh,Guntur,2018,Kharif,Rice,125000,450000
+Andhra Pradesh,Krishna,2019,Kharif,Rice,118000,430000
+Andhra Pradesh,Kurnool,2020,Rabi,Groundnut,95000,125000
+Andhra Pradesh,Guntur,2021,Kharif,Chilli,42000,98000
+Andhra Pradesh,Krishna,2022,Rabi,Maize,65000,390000
+Karnataka,Mandya,2018,Kharif,Rice,78000,310000
+Karnataka,Belagavi,2019,Kharif,Sugarcane,62000,5200000
+Karnataka,Dharwad,2020,Kharif,Cotton,54000,82000
+Karnataka,Raichur,2021,Kharif,Rice,89000,350000
+Karnataka,Mysuru,2022,Rabi,Maize,47000,275000
+Tamil Nadu,Thanjavur,2018,Kharif,Rice,110000,510000
+Tamil Nadu,Erode,2019,Rabi,Turmeric,18000,135000
+Tamil Nadu,Salem,2020,Kharif,Millets,36000,47000
+Tamil Nadu,Thanjavur,2021,Rabi,Rice,97000,460000
+Tamil Nadu,Coimbatore,2022,Rabi,Maize,41000,240000
+Maharashtra,Nashik,2018,Rabi,Onion,32000,640000
+Maharashtra,Pune,2019,Kharif,Sugarcane,85000,7100000
+Maharashtra,Amravati,2020,Kharif,Cotton,120000,165000
+Maharashtra,Nagpur,2021,Kharif,Soybean,105000,180000
+Maharashtra,Nashik,2022,Rabi,Wheat,44000,145000
+Punjab,Ludhiana,2018,Rabi,Wheat,135000,610000
+Punjab,Amritsar,2019,Kharif,Rice,142000,780000
+Punjab,Patiala,2020,Rabi,Wheat,128000,590000
+Punjab,Ludhiana,2021,Kharif,Rice,139000,755000
+Punjab,Amritsar,2022,Rabi,Maize,22000,118000
+Uttar Pradesh,Meerut,2018,Rabi,Wheat,160000,640000
+Uttar Pradesh,Lakhimpur Kheri,2019,Kharif,Sugarcane,145000,12500000
+Uttar Pradesh,Agra,2020,Rabi,Potato,52000,1200000
+Uttar Pradesh,Varanasi,2021,Kharif,Rice,98000,390000
+Uttar Pradesh,Meerut,2022,Rabi,Wheat,166000,670000
+West Bengal,Bardhaman,2018,Kharif,Rice,145000,620000
+West Bengal,Hooghly,2019,Rabi,Potato,39000,850000
+West Bengal,Nadia,2020,Kharif,Jute,47000,590000
+West Bengal,Bardhaman,2021,Kharif,Rice,152000,660000
+West Bengal,Hooghly,2022,Rabi,Potato,43000,920000
+Madhya Pradesh,Indore,2018,Kharif,Soybean,125000,220000
+Madhya Pradesh,Ujjain,2019,Rabi,Wheat,97000,365000
+Madhya Pradesh,Hoshangabad,2020,Kharif,Rice,68000,270000
+Madhya Pradesh,Indore,2021,Kharif,Soybean,131000,235000
+Madhya Pradesh,Ujjain,2022,Rabi,Gram,74000,105000
+Rajasthan,Sri Ganganagar,2018,Rabi,Wheat,118000,410000
+Rajasthan,Kota,2019,Kharif,Soybean,63000,105000
+Rajasthan,Jaipur,2020,Rabi,Mustard,85000,125000
+Rajasthan,Sri Ganganagar,2021,Kharif,Cotton,42000,67000
+Rajasthan,Kota,2022,Kharif,Rice,25000,90000
+Gujarat,Rajkot,2018,Kharif,Groundnut,112000,175000
+Gujarat,Ahmedabad,2019,Kharif,Cotton,95000,130000
+Gujarat,Surat,2020,Kharif,Sugarcane,38000,2800000
+Gujarat,Rajkot,2021,Kharif,Groundnut,118000,190000
+Gujarat,Ahmedabad,2022,Rabi,Wheat,36000,118000
+Bihar,Patna,2018,Kharif,Rice,82000,330000
+Bihar,Muzaffarpur,2019,Rabi,Maize,46000,245000
+Bihar,Purnia,2020,Kharif,Jute,21000,250000
+Bihar,Patna,2021,Kharif,Rice,87000,355000
+Bihar,Muzaffarpur,2022,Rabi,Wheat,52000,190000
+Haryana,Karnal,2018,Rabi,Wheat,105000,480000
+Haryana,Kurukshetra,2019,Kharif,Rice,93000,530000
+Haryana,Hisar,2020,Kharif,Cotton,58000,76000
+Haryana,Karnal,2021,Rabi,Wheat,111000,510000
+Haryana,Kurukshetra,2022,Kharif,Rice,98000,570000

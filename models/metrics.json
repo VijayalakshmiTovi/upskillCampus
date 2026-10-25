@@ -1,0 +1,8 @@
+{
+    "model": "Random Forest Regressor",
+    "rows_used": 60,
+    "MAE": 108681.7857142857,
+    "RMSE": 129101.06907418557,
+    "R2": 0.447363914094408,
+    "dataset_note": "Synthetic starter data; metrics are for pipeline testing only."
+}
